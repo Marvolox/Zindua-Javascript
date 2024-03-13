@@ -9,7 +9,7 @@ if (length === '' || width === '' || length <= 0 || width <= 0) {
     return;
   }
 
-let area = lenth*width
+let area = length*width
 
 let perimeter = 2*(length+width)
 
